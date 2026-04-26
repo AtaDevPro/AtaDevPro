@@ -1,6 +1,10 @@
 # Hi there, I'm Ata! 👋
 
-Welcome to my digital playground. I'm a passionate **Full‑Stack Developer** who loves building fast, scalable, and user‑friendly applications.  
+Welcome to my digital playground. 🎮 Leveling up in the JS ecosystem: Next.js for the looks ✨, Node.js for the brains 🧠, and NestJS loading… ⏳
+
+I'm a passionate **Full‑Stack Developer (in progress)** who loves building fast, scalable, and user‑friendly applications.  
+If you're visiting from LinkedIn—welcome! Here you get to see the actual magic behind the scenes. 🚀
+.  
 If you're visiting from LinkedIn—welcome! Here you get to see the actual magic behind the scenes. 🚀
 
 ### 👨‍💻 A Little About Me
