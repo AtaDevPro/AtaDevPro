@@ -1,32 +1,34 @@
 # Hi there, I'm Ata! 👋
 
-Welcome to my digital playground. I'm a passionate **Full-Stack Developer** who loves building fast, scalable, and user-friendly applications. If you're visiting from LinkedIn, you already know I mean business—but here, you get to see the magic behind the scenes! 🚀
+Welcome to my digital playground. I'm a passionate **Full‑Stack Developer** who loves building fast, scalable, and user‑friendly applications.  
+If you're visiting from LinkedIn—welcome! Here you get to see the actual magic behind the scenes. 🚀
 
 ### 👨‍💻 A Little About Me
 
-- ☕ I specialize in turning coffee into blazing-fast web apps.
-- ⚡ **Frontend:** I love crafting seamless, SEO-friendly user experiences with **Next.js**.
-- 🔌 **Backend:** My absolute comfort zone is **Node.js & Express**.
-- 🌱 **Currently Learning:** I'm diving deep into **NestJS** to level up my backend architecture game.
-- 🔮 **What's Next?** I'm gearing up to conquer the mobile world with **React Native** soon!
-- 🤝 **Collaboration:** I believe the best code is written in good company. Always open to discussing new ideas!
+- ☕ I specialize in turning coffee into clean, maintainable, lightning‑fast web apps.  
+- ⚡ **Frontend:** Crafting seamless, SEO‑friendly experiences with **Next.js** is my happy place.  
+- 🔌 **Backend:** Totally at home with **Node.js & Express**, building robust and scalable APIs.  
+- 🌱 **Currently Learning:** Diving deeper into **NestJS** to master structured, enterprise‑level backend development.  
+- 🔮 **Next Up:** Stepping into the mobile world with **React Native** soon—super excited about this!  
+- 🤝 **Collaboration:** Always open to ideas, teamwork, and building stuff that actually matters.
 
 ### 🛠️ My Tech Stack
 
-*   **Core:** JavaScript, TypeScript
-*   **Frontend:** Next.js, React, Tailwind CSS 
-*   **Backend:** Node.js, Express, NestJS (Learning)
-*   **Tools:** Git
-*   **Databases:** MongoDB, MySQL
+- **Core:** JavaScript, TypeScript  
+- **Frontend:** Next.js, React, Tailwind CSS  
+- **Backend:** Node.js, Express, NestJS (Learning)  
+- **Databases:** MongoDB, MySQL  
+- **Tools:** Git  
 
 ### 📫 Let's Connect!
 
-I'm always open to interesting conversations, freelance gigs, or full-time opportunities.
+I'm always open to conversations, collaborations, freelance projects, and new opportunities.
 
-- 💼 **LinkedIn:** [Connect with me here](https://linkedin.com/in/atadevpro)
-- 📧 **Email:** [Shoot me an email](mailto:atadevpro@gmail.com)
-- 🌐 **Portfolio:** [Check out my work](https://atadev.vercel.app/))
+- 💼 **LinkedIn:** [Connect with me](https://linkedin.com/in/atadevpro)  
+- 📧 **Email:** [atadevpro@gmail.com](mailto:atadevpro@gmail.com)  
+- 🌐 **Portfolio:** [Check out my work](https://atadev.vercel.app/)  
 
 ---
 
-*"First, solve the problem. Then, write the code." – John Johnson* 💻✨
+*"Every line of code is either a lesson or a step forward — never just syntax* 💻🚀
+`
