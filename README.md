@@ -5,7 +5,6 @@ If you're visiting from LinkedIn—welcome! Here you get to see the actual magic
 
 ### 👨‍💻 A Little About Me
 
-- ☕ I specialize in turning coffee into clean, maintainable, lightning‑fast web apps.  
 - ⚡ **Frontend:** Crafting seamless, SEO‑friendly experiences with **Next.js** is my happy place.  
 - 🔌 **Backend:** Totally at home with **Node.js & Express**, building robust and scalable APIs.  
 - 🌱 **Currently Learning:** Diving deeper into **NestJS** to master structured, enterprise‑level backend development.  
