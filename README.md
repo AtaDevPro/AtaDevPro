@@ -14,16 +14,16 @@ Welcome to my digital playground. I'm a passionate **Full-Stack Developer** who 
 ### 🛠️ My Tech Stack
 
 *   **Core:** JavaScript, TypeScript
-*   **Frontend:** Next.js, React, [Add Tailwind CSS or others if you use them]
+*   **Frontend:** Next.js, React, Tailwind CSS 
 *   **Backend:** Node.js, Express, NestJS (Learning)
-*   **Tools:** Git, [Add Docker, Postman, etc.]
-*   **Databases:** [e.g., MongoDB, PostgreSQL - Add yours here]
+*   **Tools:** Git
+*   **Databases:** MongoDB, MySQL
 
 ### 📫 Let's Connect!
 
 I'm always open to interesting conversations, freelance gigs, or full-time opportunities.
 
-- 💼 **LinkedIn:** [Connect with me here](linkedin.com/in/atadevpro)
+- 💼 **LinkedIn:** [Connect with me here](https://linkedin.com/in/atadevpro)
 - 📧 **Email:** [Shoot me an email](mailto:atadevpro@gmail.com)
 - 🌐 **Portfolio:** [Check out my work](https://atadev.vercel.app/))
 
