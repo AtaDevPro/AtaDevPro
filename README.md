@@ -4,8 +4,6 @@ Welcome to my digital playground. 🎮 Leveling up in the JS ecosystem: Next.js 
 
 I'm a passionate **Full‑Stack Developer (in progress)** who loves building fast, scalable, and user‑friendly applications.  
 If you're visiting from LinkedIn—welcome! Here you get to see the actual magic behind the scenes. 🚀
-.  
-If you're visiting from LinkedIn—welcome! Here you get to see the actual magic behind the scenes. 🚀
 
 ### 👨‍💻 A Little About Me
 
