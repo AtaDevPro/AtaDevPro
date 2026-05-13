@@ -15,7 +15,9 @@ If you're visiting from LinkedIn—welcome! Here you get to see the actual magic
 
 ### 🛠️ My Tech Stack
 
-- **Core:** JavaScript, TypeScript  
+- **Core:** 
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 - **Frontend:** Next.js, React, Tailwind CSS  
 - **Backend:** Node.js, Express, NestJS (Learning)  
 - **Databases:** MongoDB
