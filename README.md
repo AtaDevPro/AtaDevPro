@@ -18,7 +18,7 @@ If you're visiting from LinkedIn—welcome! Here you get to see the actual magic
 - **Core:** JavaScript, TypeScript  
 - **Frontend:** Next.js, React, Tailwind CSS  
 - **Backend:** Node.js, Express, NestJS (Learning)  
-- **Databases:** MongoDB, MySQL  
+- **Databases:** MongoDB
 - **Tools:** Git  
 
 ### 📫 Let's Connect!
