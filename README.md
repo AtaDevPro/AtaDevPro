@@ -1,28 +1,37 @@
 # Hi there, I'm Ata! 👋
 
-Welcome to my digital playground. 🎮  
-Leveling up in the JavaScript ecosystem: Next.js for the looks ✨, Node.js for the brains 🧠, and NestJS loading... ⏳
+Welcome to my digital playground. 🎮
 
-I'm a passionate Full-Stack Developer (in progress) who loves building fast, scalable, and user-friendly applications.
+I'm a Full-Stack JavaScript Developer focused on building modern web applications with **Next.js** and **NestJS**. I enjoy creating fast, scalable, and maintainable software with clean architecture and a great developer experience.
 
-If you're visiting from LinkedIn — welcome! This is where the real building happens. 🚀
+If you're visiting from LinkedIn — welcome! 🚀
 
 ---
 
 ## 👨‍💻 A Little About Me
 
-- ⚡ Frontend-focused developer crafting modern, responsive, and SEO-friendly experiences with Next.js
-- 🔌 Comfortable building scalable APIs and backend systems using Node.js & Express
-- 🌱 Currently learning NestJS to level up my backend architecture skills
-- 📱 Planning to dive into React Native soon and explore cross-platform mobile development
+- ⚛️ Building modern, responsive, and SEO-friendly applications with Next.js
+- 🚀 Developing scalable backend services and REST APIs using NestJS
+- 🗄️ Working with PostgreSQL, TypeORM, and relational database design
+- 📱 Planning to dive into React Native and cross-platform mobile development
 - 🤝 Open to collaboration, freelance opportunities, and exciting projects
-- 🚀 Always curious about performance, clean architecture, and developer experience
+- 🧠 Passionate about clean architecture, performance, and writing maintainable code
+- 🌱 Always learning and improving as a developer
+
+---
+
+## 🚀 Currently Building
+
+- 🛒 E-commerce Platform (Next.js + NestJS)
+- 🔐 Authentication & Authorization
+- 📦 RESTful APIs
+- ⚡ Modern Full-Stack Applications
 
 ---
 
 ## 🛠️ My Tech Stack
 
-### Core
+### Languages
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -37,12 +46,13 @@ If you're visiting from LinkedIn — welcome! This is where the real building ha
 ### Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS_Learning-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
 
 ### Database
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![TypeORM](https://img.shields.io/badge/TypeORM-FE0902?style=for-the-badge)
 
 ### Tools
 
@@ -65,14 +75,14 @@ If you're visiting from LinkedIn — welcome! This is where the real building ha
 
 ## 📫 Let's Connect!
 
-I'm always open to conversations, collaborations, freelance projects, and new opportunities.
+I'm always open to collaborations, freelance work, and exciting opportunities.
 
-- 💼 LinkedIn: [linkedin.com/in/atadevpro](https://linkedin.com/in/atadevpro)
-- 📧 Email: [atadevpro@gmail.com](mailto:atadevpro@gmail.com)
-- 🌐 Portfolio: [atadev.vercel.app](https://atadev.vercel.app/)
+- 💼 LinkedIn: https://linkedin.com/in/atadevpro
+- 📧 Email: atadevpro@gmail.com
+- 🌐 Portfolio: https://atadev.vercel.app
 
 ---
 
-⭐ Feel free to explore my repositories and drop a star if something helps you!
+⭐ Thanks for stopping by! Feel free to explore my repositories, open an issue, or leave a ⭐ if you find something useful.
 
-> "Every line of code is either a lesson or a step forward — never just syntax." 💻🚀
+> "Clean code scales. Clean architecture lasts." 🚀
