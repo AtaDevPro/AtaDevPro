@@ -4,8 +4,6 @@ Welcome to my digital playground. 🎮
 
 I'm a Full-Stack JavaScript Developer focused on building modern web applications with **Next.js** and **NestJS**. I enjoy creating fast, scalable, and maintainable software with clean architecture and a great developer experience.
 
-If you're visiting from LinkedIn — welcome! 🚀
-
 ---
 
 ## 👨‍💻 A Little About Me
